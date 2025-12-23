@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(wait)",
+      "Bash(python:*)",
+      "WebSearch",
+      "Bash(MPLBACKEND=Agg python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
